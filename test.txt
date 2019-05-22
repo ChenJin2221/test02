@@ -1,0 +1,3 @@
+class test{
+	systm.out.println(test)
+}
