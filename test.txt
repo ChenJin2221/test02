@@ -1,3 +1,5 @@
 class test{
-	systm.out.println(test)
+	public static void main(String[] args){
+		systm.out.println("test");
+	}
 }
